@@ -83,3 +83,7 @@ This will launch a SOCKS server on the default port (23579). Use the `-help` fla
 ### License
 
 This is public domain software. See [LICENSE](/LICENSE) for details.
+
+
+### Code Visualization
+![Visualization of the codebase](./diagram.svg)
